@@ -2,4 +2,6 @@ function cosita() {
   console.log("dame tu cosita");
 }
 
-jdsajfkadjflkda
+function otraCosita() {
+  console.log("otra cosita");
+}
